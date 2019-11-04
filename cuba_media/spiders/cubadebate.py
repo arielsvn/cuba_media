@@ -7,7 +7,7 @@ class CubadebateSpider(SitemapSpider):
     name = 'cubadebate'
     allowed_domains = ['www.cubadebate.cu']
     sitemap_urls = ['http://www.cubadebate.cu/sitemap.xml']
-    sitemap_follow = ['/sitemap-pt-post-2016-06']
+    sitemap_follow = ['/sitemap-pt-post-']
 
     def parse(self, response):
         if 'http://www.cubadebate.cu' not in response.url:
