@@ -1,3 +1,5 @@
+# Cuba Media
+
 Este repositorio contiene varios crawlers para guardar articulos de periodicos digitales cubanos en formato json.
 
 El proyecto usa [scrappy](https://scrapy.org/) y los crawlers pueden iniciarse usando los siguientes comandos:
@@ -13,7 +15,7 @@ El proyecto usa [scrappy](https://scrapy.org/) y los crawlers pueden iniciarse u
   scrapy crawl cubadebate  -s JOBDIR=crawls/cubadebate -o output/cubadebate.json
   ```
 
-Copias archivadas
+### Copias archivadas
 
 - Granma: 52100 articulos (de 2019/11/03) [descargar](https://drive.google.com/open?id=1ofLP9Up54HfPfCOCfMgiRqNZGlSVqVNx)
 - Cubadebate: 98966 articulos (de 2019/11/03) [descargar](https://drive.google.com/open?id=1i9A9KMJRWODMSsfmW164rx1aLUeYlkXz)
