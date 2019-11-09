@@ -15,5 +15,5 @@ El proyecto usa [scrappy](https://scrapy.org/) y los crawlers pueden iniciarse u
 
 Copias archivadas
 
-- Granma (de 2019/11/03) [descargar](https://drive.google.com/open?id=1ofLP9Up54HfPfCOCfMgiRqNZGlSVqVNx)
-- Cubadebate (de 2019/11/03) [descargar](https://drive.google.com/open?id=1i9A9KMJRWODMSsfmW164rx1aLUeYlkXz)
+- Granma: 52100 articulos (de 2019/11/03) [descargar](https://drive.google.com/open?id=1ofLP9Up54HfPfCOCfMgiRqNZGlSVqVNx)
+- Cubadebate: 98966 articulos (de 2019/11/03) [descargar](https://drive.google.com/open?id=1i9A9KMJRWODMSsfmW164rx1aLUeYlkXz)
